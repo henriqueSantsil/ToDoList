@@ -1,0 +1,29 @@
+
+
+.lista{
+    margin-top: 30px;
+    padding: 10px 0px;
+    width: 340px;
+    border-radius: 5px;
+}
+
+.link-concluir{
+    text-decoration: none;
+    color: rgb(40, 156, 40);
+
+}
+.link-excluir{
+    text-decoration: none;
+    color: rgb(177, 0, 0);
+
+}
+
+div.lista li.concluida{
+    color: rgb(40, 156, 40);
+}
+
+.link-reabrir{
+    text-decoration: none;
+    color: rgb(27, 14, 207);
+}
+
